@@ -1,0 +1,90 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.box{
+    border: 3px solid red;
+    width: 550px;
+    height: 52vh;
+    margin-top: 60px;
+    margin-left:70px;
+}
+.boxe{
+    border: 3px solid red;
+    width: 500px;
+    height: 6vh;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.heading{
+    margin-left: 20px;
+    margin-top: 1px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.box1{
+    border: 3px solid red;
+    width: 500px;
+    height: 12vh;
+    margin-top: 20px;
+    margin-left: 20px;   
+}
+.box2{
+    border: 3px solid red;
+    width: 500px;
+    height: 15vh;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.small{
+    border: 3px solid red;
+    width: 475px;
+    height: 6vh;
+    margin-top: 6px;
+    margin-left: 10px;
+}
+.tiny{
+    border: 3px solid red;
+    width: 475px;
+    height: 6vh;
+    margin-top: 0px;
+    margin-left: 10px;
+}
+ul{
+    margin-top: 10px;
+    margin-left: 12px;
+}
+
+p{
+ margin-top: 20px;
+ padding-left: 5px;  
+ text-align: center; 
+}
+.buttons{
+    width: 70px;
+    height: 5vh;
+    border: 3px solid red;
+    margin-left: 4px;
+    margin-top: 10px;   
+}
+.link{
+    width: 50px;
+    height: 5vh;
+    border: 3px solid red;
+    margin-top: 10px;
+    margin-left: 4px;
+}
+.footer{
+    display: flex;
+}
+.bold{
+    text-align: center;
+    margin-top: 8px;
+    font-weight: 500;
+    font-family:'Times New Roman', Times, serif
+}
+.blue{
+    margin-top:7px;
+}
+h5{
+    margin-left:6px;
+}
